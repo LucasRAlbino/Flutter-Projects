@@ -1,5 +1,5 @@
 # LRABank
 
-![Logo Flutter](img.png)
+![Logo Flutter](img.jpg)
 
 
