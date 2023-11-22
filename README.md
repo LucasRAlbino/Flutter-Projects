@@ -1,1 +1,1 @@
-# movieApp_Flutter
+ # Repository dedicated to my Flutter projects
